@@ -1,2 +1,2 @@
 # Proteus
-Python core library of the Proteus project
+This is the Python core library of the Proteus project.
